@@ -1,0 +1,3 @@
+other
+setEmptyExternalStream
+	self setExternalStreamOn: #[]

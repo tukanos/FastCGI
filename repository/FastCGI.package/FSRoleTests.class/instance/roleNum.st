@@ -1,0 +1,3 @@
+other
+roleNum 
+	self subclassResponsibility

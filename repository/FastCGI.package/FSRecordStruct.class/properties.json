@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "FSRecordAbstract",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FCGIConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"requestId",
+		"contentLength",
+		"paddingLength",
+		"data"
+	],
+	"name" : "FSRecordStruct",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FSDemoHandler",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FSGsDemoHandler",
+	"type" : "normal"
+}

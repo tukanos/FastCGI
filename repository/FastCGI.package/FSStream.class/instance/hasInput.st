@@ -1,0 +1,3 @@
+other
+hasInput 
+	^readStream hasInput

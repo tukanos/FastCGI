@@ -1,0 +1,3 @@
+other
+socket
+	^readStream socket

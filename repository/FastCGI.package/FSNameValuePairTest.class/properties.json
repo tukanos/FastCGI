@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FSProtocolTests",
+	"category" : "FastCGI-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pair"
+	],
+	"name" : "FSNameValuePairTest",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+other
+setZeroNonEmpty
+	self setRecordSeriesOn: #(1 5 0 1 0 0 0 0 100) asByteArray

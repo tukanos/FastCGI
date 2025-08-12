@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serveLoop",
+		"port",
+		"connections",
+		"requestHandler",
+		"socket",
+		"elapsedTime",
+		"elapsedTimeMutex"
+	],
+	"name" : "FSSocketServer",
+	"type" : "normal"
+}

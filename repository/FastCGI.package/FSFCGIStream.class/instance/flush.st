@@ -1,0 +1,3 @@
+other
+flush
+	^stream flush

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FCGIConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"server",
+		"stream",
+		"activeId",
+		"role"
+	],
+	"name" : "FSConnection",
+	"type" : "normal"
+}

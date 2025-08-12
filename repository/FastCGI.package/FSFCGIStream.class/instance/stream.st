@@ -1,0 +1,3 @@
+other
+stream
+	^stream

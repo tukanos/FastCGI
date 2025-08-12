@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FCGIConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"protocolStatus"
+	],
+	"name" : "FSError",
+	"type" : "normal"
+}

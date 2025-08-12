@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FSRoleTests",
+	"category" : "FastCGI-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FSResponderRoleTest",
+	"type" : "normal"
+}

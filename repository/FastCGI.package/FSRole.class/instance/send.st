@@ -1,0 +1,3 @@
+other
+send
+	self subclassResponsibility

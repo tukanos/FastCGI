@@ -1,0 +1,3 @@
+other
+receive
+	self subclassResponsibility

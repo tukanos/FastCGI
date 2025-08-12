@@ -1,0 +1,3 @@
+other
+peekByte
+	^readStream peek

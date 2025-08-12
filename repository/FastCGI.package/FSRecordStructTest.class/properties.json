@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FSStreamingTests",
+	"category" : "FastCGI-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"record"
+	],
+	"name" : "FSRecordStructTest",
+	"type" : "normal"
+}

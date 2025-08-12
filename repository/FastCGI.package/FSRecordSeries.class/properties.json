@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "FSRecordAbstract",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FCGIConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"records"
+	],
+	"name" : "FSRecordSeries",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FSSocketServer",
+	"category" : "FastCGI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gateSemaphore"
+	],
+	"name" : "FSGsSocketServer",
+	"type" : "normal"
+}
